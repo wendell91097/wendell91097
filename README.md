@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wendell91097
-- 👀 I’m interested in emerging AI tools, especially language model integration into coding! Github Copilot X and GPT-8. 
+- 👀 I’m interested in the location of the golden spin.
 - 🌱 I’m currently learning React and Svelte.
 - 💞️ I’m looking to collaborate on any small or large-scale projects that need some creative input!
 - 📫 How to reach me ...
