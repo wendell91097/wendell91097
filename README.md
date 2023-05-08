@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wendell91097
+- 👋 Hi, I’m Wen, a software dev
 - 👀 I’m interested in the location of the golden spin.
 - 🌱 I’m currently learning React and Svelte.
 - 💞️ I’m looking to collaborate on any small or large-scale projects that need some creative input!
